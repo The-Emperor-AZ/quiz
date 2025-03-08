@@ -9,6 +9,6 @@ Debe contener al menos un carácter especial (@, #, $, %, &, *)
 El programa debe indicar cuáles criterios no se cumplen.
 Nota: Acá te dejo una ayuda.
 (c == '@' || c == '#' || c == '$' || c == '%' || c == '&' || c == '*')
-variables: Contraseña 
+- variables: Contraseña 
 - Con scanner le voy a pedir al usuario que ingrese la contraseña.
 - def las condiciones que debe cumplir para que se cumplan con el if.
